@@ -41,15 +41,15 @@ var path4 = group
 var lastTime;
 
 var update = function (ms) {
-  var f = (Math.sin(lastTime / 1550) ** 4 / 2 + 1.0) / 2 + 0.5;
+  var f = (Math.sin((lastTime - 650) / 1550) ** 4 / 2 + 1.0) / 2 + 0.5;
   var new_pt = interp_pt(tr_top1, tr_left, f / 2 + 0.25);
   path2.plot([tr_left.x, tr_left.y, tr_right.x, tr_right.y, new_pt.x, new_pt.y]);
 
-  var f = (Math.sin(lastTime / 1400) ** 4 / 2 + 1.0) / 2 + 0.5;
+  var f = (Math.sin((lastTime - 650) / 1400) ** 4 / 2 + 1.0) / 2 + 0.5;
   var new_pt = interp_pt(tr_top1, tr_left, f / 2 + 0);
   path3.plot([tr_left.x, tr_left.y, tr_right.x, tr_right.y, new_pt.x, new_pt.y]);
 
-  var f = (Math.sin(lastTime / 1300) ** 4 / 2 + 1.0) / 2 + 0.5;
+  var f = (Math.sin((lastTime - 650) / 1300) ** 4 / 2 + 1.0) / 2 + 0.5;
   var new_pt = interp_pt(tr_top1, tr_left, f / 2 - 0.25);
   path4.plot([tr_left.x, tr_left.y, tr_right.x, tr_right.y, new_pt.x, new_pt.y]);
 }
