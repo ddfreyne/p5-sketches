@@ -11,3 +11,5 @@ A handful of JavaScript sketches:
 * [hooks](http://ddfreyne.github.io/sketches/hooks/)
 * [tower](http://ddfreyne.github.io/sketches/tower/)
 * [neon rings](http://ddfreyne.github.io/sketches/neon-rings/)
+* [drip](http://ddfreyne.github.io/sketches/drip/)
+* [scales](http://ddfreyne.github.io/sketches/scales/)
