@@ -14,3 +14,4 @@ A handful of JavaScript sketches:
 * [drip](http://ddfreyne.github.io/sketches/drip/)
 * [scales](http://ddfreyne.github.io/sketches/scales/)
 * [ccccc](http://ddfreyne.github.io/sketches/ccccc/)
+* [planet lines](http://ddfreyne.github.io/sketches/planet-lines/)
