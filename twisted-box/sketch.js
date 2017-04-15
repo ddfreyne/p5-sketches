@@ -1,5 +1,5 @@
-var w = 1200;
-var h = 800;
+var w = 900;
+var h = 900;
 
 var draw = SVG('drawing').size(w, h);
 
