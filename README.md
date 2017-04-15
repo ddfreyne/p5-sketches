@@ -15,3 +15,4 @@ A handful of JavaScript sketches:
 * [scales](http://ddfreyne.github.io/sketches/scales/)
 * [ccccc](http://ddfreyne.github.io/sketches/ccccc/)
 * [planet lines](http://ddfreyne.github.io/sketches/planet-lines/)
+* [twisted box](http://ddfreyne.github.io/sketches/twisted-box/)
