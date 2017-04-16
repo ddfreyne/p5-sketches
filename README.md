@@ -16,3 +16,4 @@ A handful of JavaScript sketches:
 * [ccccc](http://ddfreyne.github.io/sketches/ccccc/)
 * [planet lines](http://ddfreyne.github.io/sketches/planet-lines/)
 * [twisted box](http://ddfreyne.github.io/sketches/twisted-box/)
+* [vortex](http://ddfreyne.github.io/sketches/vortex/)
