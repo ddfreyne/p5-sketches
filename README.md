@@ -18,3 +18,4 @@ A handful of JavaScript sketches:
 * [twisted box](http://ddfreyne.github.io/sketches/twisted-box/)
 * [vortex](http://ddfreyne.github.io/sketches/vortex/)
 * [eye](http://ddfreyne.github.io/sketches/eye/)
+* [star](http://ddfreyne.github.io/sketches/star/)
