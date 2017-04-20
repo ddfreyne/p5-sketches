@@ -19,3 +19,4 @@ A handful of JavaScript sketches:
 * [vortex](http://ddfreyne.github.io/sketches/vortex/)
 * [eye](http://ddfreyne.github.io/sketches/eye/)
 * [star](http://ddfreyne.github.io/sketches/star/)
+* [plasma](http://ddfreyne.github.io/sketches/plasma/)
