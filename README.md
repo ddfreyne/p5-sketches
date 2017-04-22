@@ -20,3 +20,4 @@ A handful of JavaScript sketches:
 * [eye](http://ddfreyne.github.io/sketches/eye/)
 * [star](http://ddfreyne.github.io/sketches/star/)
 * [plasma](http://ddfreyne.github.io/sketches/plasma/)
+* [cone](http://ddfreyne.github.io/sketches/cone/)
