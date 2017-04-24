@@ -22,3 +22,4 @@ A handful of JavaScript sketches:
 * [plasma](http://ddfreyne.github.io/sketches/plasma/)
 * [cone](http://ddfreyne.github.io/sketches/cone/)
 * [sliced](http://ddfreyne.github.io/sketches/sliced/)
+* [sunset](http://ddfreyne.github.io/sketches/sunset/)
