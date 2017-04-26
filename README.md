@@ -23,3 +23,4 @@ A handful of JavaScript sketches:
 * [cone](http://ddfreyne.github.io/sketches/cone/)
 * [sliced](http://ddfreyne.github.io/sketches/sliced/)
 * [sunset](http://ddfreyne.github.io/sketches/sunset/)
+* [square error](http://ddfreyne.github.io/sketches/square-error/)
