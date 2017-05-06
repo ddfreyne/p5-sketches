@@ -25,3 +25,4 @@ A handful of JavaScript sketches:
 * [sunset](http://ddfreyne.github.io/sketches/sunset/)
 * [square error](http://ddfreyne.github.io/sketches/square-error/)
 * [circles](http://ddfreyne.github.io/sketches/circles/)
+* [3d rotation](http://ddfreyne.github.io/sketches/3d-rotation/)
