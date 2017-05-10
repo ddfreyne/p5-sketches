@@ -27,3 +27,4 @@ A handful of JavaScript sketches:
 * [circles](http://ddfreyne.github.io/sketches/circles/)
 * [3d rotation](http://ddfreyne.github.io/sketches/3d-rotation/)
 * [tunnel](http://ddfreyne.github.io/sketches/tunnel/)
+* [cylinder](http://ddfreyne.github.io/sketches/cylinder/)
