@@ -29,3 +29,4 @@ A handful of JavaScript sketches:
 * [tunnel](http://ddfreyne.github.io/sketches/tunnel/)
 * [cylinder](http://ddfreyne.github.io/sketches/cylinder/)
 * [rain](http://ddfreyne.github.io/sketches/rain/)
+* [square 2](http://ddfreyne.github.io/sketches/square-2/)
