@@ -31,3 +31,4 @@ A handful of JavaScript sketches:
 * [rain](http://ddfreyne.github.io/sketches/rain/)
 * [square 2](http://ddfreyne.github.io/sketches/square-2/)
 * [train](http://ddfreyne.github.io/sketches/train/)
+* [black lodge](http://ddfreyne.github.io/sketches/black-lodge/)
