@@ -32,3 +32,4 @@ A handful of JavaScript sketches:
 * [square 2](http://ddfreyne.github.io/sketches/square-2/)
 * [train](http://ddfreyne.github.io/sketches/train/)
 * [black lodge](http://ddfreyne.github.io/sketches/black-lodge/)
+* [moons](http://ddfreyne.github.io/sketches/moons/)
